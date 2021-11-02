@@ -1,7 +1,5 @@
-Hello and welcome to this blog. Edit the `index.md` file to change this content. All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). You can include images:
+# Tunoblog on Github
 
-![Image of fast.ai logo](images/logo.png)
+I might have lost count of how many blogs I have created. I guess I like the thrill of creating a new blog more than writing blog entries 😅
 
-## This is a title
-
-And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
+Let's see if [this template by fast.ai](https://www.fast.ai/2020/01/16/fast_template/) will be able to keep me writing. It looks quite cool!
